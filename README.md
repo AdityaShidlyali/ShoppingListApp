@@ -1,5 +1,5 @@
-# Shopping Item
-**Shopping Item** is item lising application based on local database application performing CRUD operations.
+# Shopping List
+**Shopping List** is item lising application based on local database application performing CRUD operations.
 
 <img src="https://github.com/AdityaShidlyali/ShoppingListApp/blob/main/images/shopping_list.jpg" />
 
