@@ -1,4 +1,4 @@
-# Shopping Items
+# Shopping Item
 **Shopping Item** is item lising application based on local database application performing CRUD operations.
 
 <img src="https://github.com/AdityaShidlyali/ShoppingListApp/blob/main/images/shopping_list.jpg" />
