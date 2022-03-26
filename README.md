@@ -18,6 +18,8 @@
 * repositories
 * viewmodels
 
+<img src="https://github.com/AdityaShidlyali/ShoppingListApp/blob/main/images/mvvm.png" />
+
 ## Android :heart: Koltin
 * Generic Recycler View is used for listing the of items.
 * Kotlin Coroutines are implemented to peroform the long running tasks of the IO operations like inserting, updating, deleting etc., the items from the Room Database.
